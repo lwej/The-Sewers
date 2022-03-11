@@ -1,8 +1,10 @@
 import time
 
-print(
-    "Welcome! To view this game in the best way,\nmake sure your window is tall enough.\nThis game requires input to "
-    "continue \nHope you enjoy it!\n\n")
+print(f'Welcome! To view this game in the best way,\n',
+      f'make sure your window is tall enough.\n',
+      f'This game requires input to continue \n',
+      f'Hope you enjoy it!\n\n')
+
 player = input("Enter player name: ")
 
 
